@@ -1,7 +1,7 @@
 # ADM -- 2025 - 2303a51019 -- Srijith Rao
 1. [Lab 01](https://github.com/2303a51019/ADM/blob/main/DM_LAB01_2303A51019.ipynb):
 2. [Lab 02](https://github.com/2303a51019/ADM/blob/main/DM_LAB02_1019.ipynb)
-3. [Lab 03]()
+3. [Lab 03](https://github.com/2303a51019/ADM/blob/main/DM_LAB03_1019.ipynb)
 4. [Lab 04]()
 5. [Lab 05]()
 6. [Lab 06]()
